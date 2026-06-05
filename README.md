@@ -14,6 +14,10 @@
 - 📦 **Offline Play** – No server or internet required
 - ⚡ **Quick Setup** – Simple install and run via npm
 
+cd frontend
+
 npm install
-npm run dev
-![Screenshot (11)](https://github.com/user-attachments/assets/2caf4bfa-8f7b-4fd8-9fd0-ceaf3c2ae6bb)
+
+npm start
+<img width="1691" height="1076" alt="Screenshot 2026-06-05 024652" src="https://github.com/user-attachments/assets/15050132-2d9f-405d-a684-a48693885443" />
+
