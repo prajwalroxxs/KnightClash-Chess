@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Knight Clash logo">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#030712"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#FDE68A"/>
+      <stop offset="50%" stop-color="#FBBF24"/>
+      <stop offset="100%" stop-color="#B45309"/>
+    </linearGradient>
+  </defs>
+  <rect x="18" y="18" width="476" height="476" rx="96" fill="url(#bg)" stroke="#D4AF37" stroke-width="14"/>
+  <circle cx="256" cy="256" r="180" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="10"/>
+  <path d="M185 150c18-18 47-28 71-28 43 0 80 28 92 67-15-13-34-23-58-27-20-4-44-2-66 9-19 10-34 25-45 42-15 23-24 50-24 80 0 8 1 15 2 22-24-18-40-44-44-75-4-33 6-64 30-90z" fill="url(#gold)" opacity="0.97"/>
+  <path d="M240 192l35 24-26 23 28 31-35 22 7 40h-35l8-40-37-21 29-32-27-23 36-24z" fill="#F8FAFC"/>
+  <path d="M190 340l54 70h35l-53-70z" fill="#F59E0B" opacity="0.95"/>
+  <path d="M260 340h58l-42 70h-39z" fill="#D97706" opacity="0.95"/>
+  <path d="M160 390h192" stroke="#FBBF24" stroke-width="10" stroke-linecap="round" opacity="0.7"/>
+</svg>
